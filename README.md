@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dualwieldingdad
-- 👀 I’m interested in all things open source
+- 👀 Content creator for all things open source
 - 🌱 I’m currently learning python and javascript
 - 💞️ Find me on youtube: https://www.youtube.com/@DualWieldingDad
